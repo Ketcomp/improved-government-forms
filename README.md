@@ -9,4 +9,4 @@ Let's bring all forms to 2020!
 
 Form purpose | Official form name | Colloquial form name | Date it was last accepted. | Link to official information | Link to form in the repo
 --- | --- | --- | --- | --- | ---
-Marriage registeration | Notice of marriage intent | - | December 2020. | - | [Notice of intended marriage](https://github.com/Ketcomp/improved-government-forms/blob/main/marriage-registeration/Notice%20of%20intended%20marriage.docx)
+Marriage registration | Notice of marriage intent | - | December 2020. | - | [Notice of intended marriage](https://github.com/Ketcomp/improved-government-forms/blob/main/marriage-registeration/Notice%20of%20intended%20marriage.docx)
